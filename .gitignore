@@ -7,7 +7,7 @@ dist/
 coverage/
 *.log
 *.tsbuildinfo
-prisma/prisma/dev.db
 prisma/prisma/*.db
+!prisma/prisma/dev.db
 prisma/prisma/*.db-journal
 .vercel/
