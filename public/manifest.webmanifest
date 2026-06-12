@@ -1,0 +1,23 @@
+{
+  "name": "Jejak Hijau Warga",
+  "short_name": "JejakHijau",
+  "description": "Aplikasi warga dan admin RT/RW untuk aksi transport rendah emisi, reward, dan analitik program lokal.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f8",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/badge.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "monochrome"
+    }
+  ]
+}
